@@ -462,6 +462,10 @@ header {
     padding: .5em;
 }
 
+.footer-copy {
+    color: var(--clr-accent);
+}
+
 
 /* Individual portfolio item styles */
 
